@@ -1,5 +1,5 @@
-title: airstream.js
-description: Airstream is Javascript library for building ChatGPT-like messaging interfaces, with just one line of code.
+title: Airstream.js
+description: Build ChatGPT-like chat interfaces fast. Go live in under a minute.
 show_downloads: true
 google_analytics:
 remote_theme: pages-themes/cayman@v0.2.0
