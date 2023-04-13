@@ -1,4 +1,6 @@
-Demo creative with love by Erik Burns.
+## Demo
+See the [demo here](/airstream.js/demo.html)
+
 
 ## Installation
 
