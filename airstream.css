@@ -1,0 +1,43 @@
+html, body {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.5rem;
+}
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+}
+h1 { margin-bottom: 20px; }
+#messages {
+  font-size: 20px;
+  line-height: 20px;
+  height: 200px;
+  width: 1000px;
+  overflow-y: auto;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 20px;
+}
+.message:not(:first-child) {
+  padding-top: 20px;
+}
+.message.instructions { color: #666; }
+.streaming .message:last-child::after {
+  content: "\258B";
+  position: relative;
+  margin-left: 0.25rem;
+  animation: blink 1s steps(5,start) infinite;
+}
+button.send {
+  margin-top: 12px;
+  font-size: 22px;
+  padding: 10px 20px;
+  border-radius: 500px;
+  border: 0;
+  background-color: #ccc;
+  cursor: pointer;
+}
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
