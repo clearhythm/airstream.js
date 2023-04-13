@@ -9,5 +9,5 @@ How to install
 How to set it up
 
 ## end
-Closing thoughts.
-You can read more [about](/airstream.js/about) the project as well.
+Closing thoughts.  
+[about the project](/airstream.js/about)
