@@ -1,6 +1,4 @@
-## Demo
-See the [demo here](/airstream.js/demo.html)
-
+See a [demo here](/airstream.js/demo.html)
 
 ## Installation
 
