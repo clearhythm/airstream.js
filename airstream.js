@@ -1,5 +1,5 @@
     // ------------
-    // Airstream.js
+    // airstream.js
     // ------------
     // A javascript library for building ChatGPT-like messaging interfaces, in just one line of code.
 
