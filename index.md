@@ -1,4 +1,4 @@
-See a [demo here](/airstream.js/demo.html)
+See a [demo here](/demo.html)
 
 ## Installation
 
@@ -10,4 +10,4 @@ How to set it up
 
 ## end
 Closing thoughts.  
-[about the project](/airstream.js/about)
+[about the project](/about)
